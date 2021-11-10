@@ -1,8 +1,5 @@
-# Coding Dojo Assignment: Login and Registration
+# Coding Dojo Assignment: Recipes
 Objectives:
-- Build an application that requires login and registration
-- Practice connecting a Flask application to a MySQL database
-- Become familiar with the logic that is required to validate a user's registration to a website
-- Become familiar with the logic that is required to validate a user logging in to a website
-- Process a user logging out of an application
-- Practice using session
+Build an ERD based off of the information and functionality of the wireframe and create a schema in your database.
+Create a Flask application and use the MVC design pattern, and OOP to make the application functional.
+Carefully read and implement the features listed on the sticky notes.
